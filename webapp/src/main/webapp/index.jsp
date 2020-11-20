@@ -6,3 +6,4 @@
 <h2>This is from GITHUB.com</h2>
 <h1>For Ansible deployment 2````</h1>
 <marques>checking learning</marques>
+<h1 color "RED"> End OF CICD TILL DOCKER</h1>
